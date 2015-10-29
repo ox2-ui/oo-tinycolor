@@ -19,5 +19,5 @@ Package.onUse(function(api) {
 Package.onTest(function(api) {
   api.use('tinytest');
   api.use('ox2:tinycolor');
-  api.addFiles('tests/oo-tinycolor-tests.js');
+  api.addFiles('tests/package-tests.js');
 });
