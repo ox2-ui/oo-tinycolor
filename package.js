@@ -1,7 +1,7 @@
 Package.describe({
   name: 'ox2:tinycolor',
   summary: 'TinyColor library',
-  version: '1.1.2_1',
+  version: '1.2.1_1',
   git: ' /* Fill me in! */ '
 });
 
